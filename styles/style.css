@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* custom styles */
+.noto-serif {
+    font-family: 'Noto Serif', serif;
+}
+.primary-color {
+    color: #E95A08;
+}
